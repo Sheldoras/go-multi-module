@@ -1,0 +1,4 @@
+github.com/Sheldoras/go-multi-module/sub1 v0.0.0-20250415113517-d1d7bd4f33f5 h1:Z9CrXt4Vx6gUbutDDNDWbk2WczO6aOsTOmBi0QzA3jc=
+github.com/Sheldoras/go-multi-module/sub1 v0.0.0-20250415113517-d1d7bd4f33f5/go.mod h1:I9vkbX7TX4S1ssHtgp81xJOAxzQC9hSZkW8k8vAmYlE=
+github.com/rb-go/namegen v1.1.0 h1:AmVdO2kM7ayaTRjpBSqKILAnT1xC4sKD01spJ7qnGbA=
+github.com/rb-go/namegen v1.1.0/go.mod h1:whb/fzz/7xbi6EgHw/zOqPS150h2efUptbJh1XFGyhA=

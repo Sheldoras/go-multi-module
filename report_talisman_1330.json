@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "types": {
+      "filecontent": 2,
+      "filesize": 0,
+      "filename": 0,
+      "warnings": 0,
+      "ignores": 0
+    }
+  },
+  "results": [
+    {
+      "filename": "sub1/go.sum",
+      "failure_list": [
+        {
+          "type": "filecontent",
+          "message": "Expected file to not contain base64 encoded texts such as: h1:AmVdO2kM7ayaTRjpBSqKILAnT1xC4sKD01spJ7qnGbA=",
+          "commits": [],
+          "severity": "high"
+        },
+        {
+          "type": "filecontent",
+          "message": "Expected file to not contain base64 encoded texts such as: h1:whb/fzz/7xbi6EgHw/zOqPS150h2efUptbJh1XFGyhA=",
+          "commits": [],
+          "severity": "high"
+        }
+      ],
+      "warning_list": [],
+      "ignore_list": []
+    }
+  ]
+}
